@@ -1,0 +1,14 @@
+.body {
+  position: relative;
+  width: 100%;
+}
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  gap : 15px;
+  justify-content: flex-start;
+}
